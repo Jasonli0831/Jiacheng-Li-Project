@@ -2,7 +2,7 @@
 ## Purpose of the Project ##
 The repository contains R codes and cleaned datasets that helps analyze New York City's Citi Bike recreational rides pattern change after COVID-19 reopening. By counting pre- and post- pandemic trip frequencies of each selected route and calculate the percentage difference, we can see if there is a positive shift of user preferences after the pandemic hits. The purpose of the project is to assist Citi Bike decide whether increasing station density near or along recreational routes is necessary in its future expansion plan.
 ## Code Style and Installation ##
-Data analysis and visualization are written in R. Cleaned datasets are stored in three CSV files.\
+Data analysis and visualization are written in R. Cleaned datasets are stored in three CSV files.
 
 **Jiacheng Li Project.Rproj** is Rproj file.
 
